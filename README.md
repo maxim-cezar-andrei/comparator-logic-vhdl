@@ -15,4 +15,4 @@ a două variabile pe 4 biți, cu testare hardware pe placa FPGA Basys 3.
 - Afișarea rezultatelor pe display multiplexat cu 7 segmente
 
 ## Documentație
-Vezi fișierul `Documentatie_ED.doc` pentru detalii complete.
+Vezi fișierul `Documentatie_ED.pdf` pentru detalii complete.
