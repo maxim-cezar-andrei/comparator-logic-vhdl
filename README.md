@@ -9,8 +9,8 @@ a două variabile pe 4 biți, cu testare hardware pe placa FPGA Basys 3.
 - FPGA Basys 3
 
 ## Funcționalitate
-- Compararea a două valori pe 4 biți (A și B)
-- Semnale de ieșire: A > B, A = B, A < B
+- Compararea a 3 valori pe 4 biți (A, B și C)
+- Semnale de ieșire: A > B, A = B, A < B, A > C, A = C, A < C
 - Maparea intrărilor pe switch-uri
 - Afișarea rezultatelor pe display multiplexat cu 7 segmente
 
